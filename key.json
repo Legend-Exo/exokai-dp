@@ -6,7 +6,7 @@
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
-    "maintenanceMsg": "Exokai server is temporarily down for maintenance.",
+    "maintenanceMsg": "",
     "statusBadge": "SECURE",
     "tags": [
       "👨‍💻 Engine by Exokai👨‍💻",
