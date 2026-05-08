@@ -6,7 +6,7 @@
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
-    "maintenanceMsg": "Exokai🐲",
+    "maintenanceMsg": "",
     "statusBadge": "SECURE",
     "tags": [
       "👨‍💻 Engine by Exokai👨‍💻",
@@ -15,8 +15,8 @@
     ],
     "title": "ꗄ./ 𓊈𑣲⋆ 𝟯𝘅𝗼᭄𝗞𝗮𝗶_𝗨𝗰𝗛𝗶𝗛𝗮 ⋆𝄢𓊉  谷ꜝ",
     "updateMsg": "New DPMods version available! Please update.",
-    "updateRequired": true,
-    "updateUrl": "https://t.me/exokai"
+    "updateRequired": false,
+    "updateUrl": ""
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
