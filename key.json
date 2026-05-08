@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-P4HWHX": {
+      "hwid": "AFB7491B79230BA7",
+      "expireDate": "2026-05-15",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
