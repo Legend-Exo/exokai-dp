@@ -5,18 +5,18 @@
     "getKeyUrl": "https://t.me/dpmodsdialog",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "maintenanceMode": true,
+    "maintenanceMsg": "Exokai server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
-      "👨‍💻 Engine by DPMods 👨‍💻",
-      "🚀 DPMods V4 🚀",
+      "👨‍💻 Engine by Exokai👨‍💻",
+      "🚀 exokai V4 🚀",
       "🛠 Stable Build"
     ],
-    "title": "DPMods Core",
+    "title": "ꗄ./ 𓊈𑣲⋆ 𝟯𝘅𝗼᭄𝗞𝗮𝗶_𝗨𝗰𝗛𝗶𝗛𝗮 ⋆𝄢𓊉  谷ꜝ",
     "updateMsg": "New DPMods version available! Please update.",
-    "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateRequired": true,
+    "updateUrl": "https://t.me/exokai"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
